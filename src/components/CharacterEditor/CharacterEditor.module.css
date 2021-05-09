@@ -6,6 +6,7 @@
 .header {
   width: 65%;
   padding-bottom: 64px;
+  position: relative;
 }
 
 .title {
@@ -32,4 +33,5 @@
 
 .controlColumn {
   width: 50%;
+  position: relative;
 }
